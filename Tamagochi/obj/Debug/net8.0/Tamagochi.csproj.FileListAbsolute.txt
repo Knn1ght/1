@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+C:\Users\student\source\repos\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+C:\Users\student\source\repos\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+C:\Users\student\source\repos\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+C:\Users\student\source\repos\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+C:\Users\student\source\repos\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+C:\Users\student\source\repos\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+C:\Users\student\source\repos\Tamagochi\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+C:\Users\student\source\repos\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+C:\Users\student\source\repos\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+C:\Users\student\source\repos\Tamagochi\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
